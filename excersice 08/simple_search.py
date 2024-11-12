@@ -1,7 +1,7 @@
 # Type a list of strings containing names 
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
-# write the string you want to search in tje list of strings mentioned above
+# write the string you want to search in the list of strings mentioned above
 search_name = "Sam"
 
 # Search for the name in the list
