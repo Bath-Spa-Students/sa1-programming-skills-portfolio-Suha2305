@@ -22,7 +22,7 @@ for country, correct_capital in countries_and_capitals:
     user_answer = input(f"What is the capital of {country}? ")
     
     # Converting  the user's answer to lowercase to ignore capitalization
-    if user_answer.lower() == correct_capital.lower(): # using capitalisation function
+    if user_answer.lower() == correct_capital.lower(): 
         print("Correct!")
         score += 1  # Increase score to +1 if the answer given by user is correct
     else:
