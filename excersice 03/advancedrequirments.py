@@ -20,5 +20,5 @@ user_info = {
     "age": age
 }
 
-# Step 3: Print the values on separate lines
-print(f"\nName: {user_info['name']}\nHometown: {user_info['hometown']}\nAge: {user_info['age']}") # using a single print() statement \n to create new lines between each answer
+# Step 3: Print the values on separate lines using \n
+print(f"\nName: {user_info['name']}\nHometown: {user_info['hometown']}\nAge: {user_info['age']}") # using a single print() statement\n to create new lines between each answer
