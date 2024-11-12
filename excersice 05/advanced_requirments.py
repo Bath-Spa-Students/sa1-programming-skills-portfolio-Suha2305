@@ -35,7 +35,7 @@ if month_number == 2: # month 2 is february
         month_days[2] = 28  # February has 28 days in a common year
 
 # Step 5: Check if the month number is valid
-if 1 <= month_number <= 12: # this function  [] <= month_number <= 12:] Checks if the month number is between 1 and 12
+if 1 <= month_number <= 12: # this function  [ 1<= month_number <= 12:] Checks if the month number is between 1 and 12
     print(f"The number of days in month {month_number} of year {year} is {month_days[month_number]}.")
 else:
     print("Invalid month number! Please enter a number between 1 and 12.") #if the month number entered is not between 1-12 this will be printed
