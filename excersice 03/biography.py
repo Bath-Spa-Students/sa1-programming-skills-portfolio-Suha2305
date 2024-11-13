@@ -1,4 +1,4 @@
-# Step 1: Store the information in variables
+ # Step 1: Store the information in variables
 name = "John Doe"         # String for name
 hometown = "New York"     # String for hometown
 age = 25                 # Integer for age
