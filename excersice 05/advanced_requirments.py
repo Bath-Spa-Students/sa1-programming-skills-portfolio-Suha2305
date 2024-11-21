@@ -1,4 +1,4 @@
-# Step 1: Create a dictionary with month numbers as keys and number of days as its values
+# Step 1: Create a dictionary with month numbers as keys and number of days as its values  
 month_days = {
     1: 31,   # January
     2: 28,   # February 
@@ -38,4 +38,4 @@ if month_number == 2: # month 2 is february
 if 1 <= month_number <= 12: # this function  [ 1<= month_number <= 12:] Checks if the month number is between 1 and 12
     print(f"The number of days in month {month_number} of year {year} is {month_days[month_number]}.")
 else:
-    print("Invalid month number! Please enter a number between 1 and 12.") #if the month number entered is not between 1-12 this will be printed
+    print("Invalid month number! Please enter a number between 1 and 12.") #if the month number entered is not between 1-12 this will be printed 
