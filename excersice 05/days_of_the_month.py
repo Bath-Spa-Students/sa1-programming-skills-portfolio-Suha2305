@@ -1,4 +1,4 @@
-# Step 1: Create a dictionary with month numbers as keys and number of days as values
+# Step 1: Create a dictionary with month numbers as keys and number of days as values  
 month_days = {
     1: 31,   # January
     2: 28,   # February 
