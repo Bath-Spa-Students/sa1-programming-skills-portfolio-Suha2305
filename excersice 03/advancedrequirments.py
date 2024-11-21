@@ -1,4 +1,4 @@
-# Function to handle age input validation
+# Function to handle age input validation 
 def age(): #def (define)
     while True: # using while loop
         age_input = input("Please enter your age: ")
