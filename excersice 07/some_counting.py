@@ -1,4 +1,4 @@
-# 1. Loop that counts up from 0 to 50 in increments of 1
+# 1. Loop that counts up from 0 to 50 in increments of 1 
 print("Counting up from 0 to 50 in increments of 1:")
 for i in range(0, 51, 1): # Generates numbers from 0, ending before 51, and increasing by 1.
     print(i) # Prints the current value of i
