@@ -1,4 +1,4 @@
-# stating 10 countries and its capitals 
+# stating 10 countries and its capitals   
 countries_and_capitals = [
     ("France", "Paris"),
     ("Germany", "Berlin"),

@@ -1,7 +1,7 @@
 # Define the correct password
 correct_password = "12345"
 
-#  Use a while loop to repeatedly ask for the password
+#  Use a while loop to repeatedly ask for the password  
 while True:
     # Ask the user to enter the password
     entered_password = input("Please enter the password: ")

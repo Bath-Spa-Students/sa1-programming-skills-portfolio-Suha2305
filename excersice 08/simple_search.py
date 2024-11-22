@@ -1,4 +1,4 @@
-# Type a list of strings containing names 
+# Type a list of strings containing names  
 names = ["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 
 # write the string you want to search in the list of strings mentioned above

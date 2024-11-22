@@ -1,4 +1,4 @@
-# Step 1: Define the correct password
+# Step 1: Define the correct password  
 correct_password = "12345"
 
 # Step 2: Use a while loop to repeatedly ask for the password
