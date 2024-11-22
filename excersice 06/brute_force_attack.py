@@ -1,5 +1,5 @@
 # Define the correct password
-correct_password = "12345"
+correct_password = "12345"  
 
 #  Use a while loop to repeatedly ask for the password  
 while True:
