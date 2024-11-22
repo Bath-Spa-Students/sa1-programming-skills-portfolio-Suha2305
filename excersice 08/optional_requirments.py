@@ -13,4 +13,4 @@ def search_name(names, search_term):  # names is the list of names to search thr
 
 
 # Call the search function
-search_name(names, search_term)
+search_name(names, search_term)  
